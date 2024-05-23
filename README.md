@@ -10,7 +10,7 @@ This is a simple calculator app designed to perform basic arithmetic operations 
 
 ## Screenshot
 
-<img src="https://drive.google.com/file/d/1ilKbvep1-RgUBMtzNClhlLwXG8F6QLiA" alt="Mini Calculator Demo" width="600">
+<img src="https://drive.google.com/uc?export=view&id=1ilKbvep1-RgUBMtzNClhlLwXG8F6QLiA" alt="Mini Calculator Demo" width="600">
 
 ## Getting Started
 
